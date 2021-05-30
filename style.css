@@ -1,0 +1,11 @@
+
+
+.img-setting{
+    width: 100%;  
+    display: flex;
+    justify-content: center;
+}
+img{
+    width: 300px;
+    height: 300px;
+}
